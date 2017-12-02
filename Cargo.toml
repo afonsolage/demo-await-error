@@ -1,0 +1,9 @@
+[package]
+name = "demo-await-error"
+version = "0.1.0"
+authors = ["Afonso Lage"]
+
+[dependencies]
+tokio-core = "*"
+futures = "*"
+futures-await = "*"
